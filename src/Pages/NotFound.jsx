@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Home, ArrowLeft, Search } from "lucide-react";
-import { categories } from "../Data/categories";
+import { categories } from "../data/categories";
 
 export default function NotFound() {
   return (
