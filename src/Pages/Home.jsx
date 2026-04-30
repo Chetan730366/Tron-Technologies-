@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import Testimonials from "../Components/Testimonials";
 import OfferCarousel from "../Components/OfferCarousel";
-import { categories } from "../Data/categories"
+import { categories } from "../data/categories";
 import {
   ShieldCheck,
   Factory,
